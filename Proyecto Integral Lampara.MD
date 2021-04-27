@@ -39,3 +39,25 @@ Mi lampara va a ser de leds, y el color aleatorio el que salga,y que se enchufe 
 Sobre la pieza donde estará inserto el arduino.
 
 * Esto se va a unir a un arduino ¿cuan largos han de ser los cables que unan al arduino?
+
+Se neccesita unos cuantos cables y 40pzs 20cm 2.54mm.
+
+* ¿Cómo es esa pieza que se inserta?¿De qué material es? ¿podemos hacer alguna de las piezas con láser/fresado/impresión 3D? (cuanto más se pueda fabricar, mejor)
+
+Si se podrian hacer con láser, o con feresado o Impresión 3D mientras se pueda fabricar iria mucho mejor.
+
+* ¿Por dónde entra el cable/los cables que sean necesarios para alimentar el arduino?
+
+Los Cables neccessario del Arduino se neccesitan 5V.
+
+Sobre el mecanismo
+
+* ¿Qué tipo de activación tiene el LED? ¿qué modos de funcionamiento tiene?
+
+El LED se activa y no se desactiva de forma automaticamente para utilizar, los procesos siguientes para activarlo y desactivar los LEDS 
+
+* ¿Cómo es físicamente el sistema de activación del led?
+
+¿es un interruptor de palanca? 
+
+* ¿Donde está esta piezas dentro de toda la lámpara?
