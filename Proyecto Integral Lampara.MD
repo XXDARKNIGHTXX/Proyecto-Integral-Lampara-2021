@@ -70,9 +70,9 @@ Sobre el programa
 
 El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Arduino, y utilizar el hardware para ponerlo en el ordenador para que funcione.
 
-*!Lampara de Vodka [Foto De Lampara de Vodka](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/6331b5717139d06de5cdf037979d9bf2.jpg)
+*! Lampara de Vodka [Foto De Lampara de Vodka](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/6331b5717139d06de5cdf037979d9bf2.jpg)
 
-*!Lampara de Monster [Foto de Monster](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/905a46ca041a8f379a9c67ac185fffa4.jpg)
+*! Lampara de Monster [Foto de Monster](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/905a46ca041a8f379a9c67ac185fffa4.jpg)
 
-*!Lampara de Ovni con Vaca [Foto de Ovni con la Vaca](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/2d2a76a74196d66a9d780aae27f3953e.jpg)
+*! Lampara de Ovni con Vaca [Foto de Ovni con la Vaca](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/2d2a76a74196d66a9d780aae27f3953e.jpg)
 
