@@ -76,3 +76,12 @@ El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Ar
 
 ![Lampara de Ovni con Vaca](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/2d2a76a74196d66a9d780aae27f3953e.jpg)
 
+![Lampara de Vodka de diferentes colores](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/49f5b9263477e5fb20edf0b0daf31d96.jpg)
+
+![Lampara de Medusas](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/7aad35cc1d3600117de84f0040a1a4ab.jpg)
+
+![Lampara de Jack Daniels](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/75c28623b10f49668eb781507b418bd7.jpg)
+
+![Lampara de Vodka Transparente Azul](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/cd39ffcaae2ac44d2999e5d808b3b5c9.jpg)
+
+![Lampara de Stitch Azul](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/5e99abefc338a0215973c311e497ebb4.jpg)
