@@ -60,4 +60,12 @@ El LED se activa y no se desactiva de forma automaticamente para utilizar, los p
 
 ¿es un interruptor de palanca? 
 
-* ¿Donde está esta piezas dentro de toda la lámpara?
+¿Donde está esta piezas dentro de toda la lámpara?
+
+La pieza de la lampara se refiere a la bombilla.
+
+Sobre el programa
+
+* ¿Qué tipo de funcionamiento tiene el LED? ¿qué ocurre si se activa o desactiva? ¿Es necesario programarlo con arduino o basta utilizar hardware para hacerlo funcionar?
+
+El funcionamiento de el LED si ocurre se activa es neccesitario, programarlo el Arduino, y utilizar el hardware para ponerlo en el ordenador para que funcione.
