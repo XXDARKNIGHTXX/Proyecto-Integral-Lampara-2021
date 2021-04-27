@@ -26,6 +26,16 @@ Programación del arduino
 
 * En la lámpara que vas a hacer ¿se ve directamente el led? ¿queda tapado a través de una pantalla semitransparente o un difusor?
 
+Puede ser que si se podra ver algún Led, y no si a través de una pantalla se vera semitransparente o difusor
+
 * ¿La lámpara tiene alguna forma en concreto? (por ejemplo, la lámpara con forma de dragón que quiere hacer Marcos)
-    
+
+La Lampara tiene forma de cuadrado y en concreto mi Lampara va a ser de mampara y la forma que yo quiero va a a ser de Stich
+
 * ¿De qué material y de qué color imaginas todo? ¿podemos hacer alguna de las piezas con láser/fresado/impresión 3D? (cuanto más se pueda fabricar, mejor)
+
+Mi lampara va a ser de leds, y el color aleatorio el que salga,y que se enchufe en algún interruptor, si se podria hacer con láser o fresado o impresión 3D, depende de los tipos de cables que tenga la impresion de la maquina 3D.
+
+Sobre la pieza donde estará inserto el arduino.
+
+* Esto se va a unir a un arduino ¿cuan largos han de ser los cables que unan al arduino?
