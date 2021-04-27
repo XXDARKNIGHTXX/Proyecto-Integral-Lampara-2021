@@ -70,4 +70,4 @@ Sobre el programa
 
 El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Arduino, y utilizar el hardware para ponerlo en el ordenador para que funcione.
 
-[!Foto De Lampara de Vodka](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/6331b5717139d06de5cdf037979d9bf2.jpg)
+* [Foto De Lampara de Vodka](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/6331b5717139d06de5cdf037979d9bf2.jpg)
