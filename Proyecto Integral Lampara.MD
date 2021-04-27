@@ -72,16 +72,32 @@ El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Ar
 
 ![Lampara de Vodka](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/6331b5717139d06de5cdf037979d9bf2.jpg)
 
+* Lampara de Vodka.
+
 ![Lampara de Monster](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/905a46ca041a8f379a9c67ac185fffa4.jpg)
+
+* Lampara de Monster y una planta.
 
 ![Lampara de Ovni con Vaca](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/2d2a76a74196d66a9d780aae27f3953e.jpg)
 
+* Lampara en forma de Ovni y una Vaca que la abducir.
+
 ![Lampara de Vodka de diferentes colores](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/49f5b9263477e5fb20edf0b0daf31d96.jpg)
+
+* Lampara de Vodka de diferentes colores Azul,Rojo,Verde,Amarillo...
 
 ![Lampara de Medusas](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/7aad35cc1d3600117de84f0040a1a4ab.jpg)
 
+* Lampara de Medusas transparente.
+
 ![Lampara de Jack Daniels](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/75c28623b10f49668eb781507b418bd7.jpg)
+
+* Lampara de Jack Daniels de todo tipo de colores los que más te guste-
 
 ![Lampara de Vodka Transparente Azul](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/cd39ffcaae2ac44d2999e5d808b3b5c9.jpg)
 
+* Lampara de Vodka Transparente Azul muy chula y me gusta demasiado.
+
 ![Lampara de Stitch Azul](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/5e99abefc338a0215973c311e497ebb4.jpg)
+
+* Lampara de Stitch la pelicula de Disney con Lilo&Stitch y me encanta mucho esta Lampara.
