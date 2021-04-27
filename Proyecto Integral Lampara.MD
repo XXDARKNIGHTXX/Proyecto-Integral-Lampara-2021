@@ -4,6 +4,8 @@
 
 * Empezaremos con un proyecto nuevo de Lámpara nos a mandando el David.
 
+* Aprender a hacer una Lámpara con el nuevo proyecto.
+
 El proyecto consistirá que hemos de hacer y tratara de hacer una lámpara
 
 * Crearemos la Lámpara que nos guste más y me gustaría mi Lámpara que fuera a mi gusto.
