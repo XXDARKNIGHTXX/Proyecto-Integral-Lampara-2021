@@ -66,6 +66,6 @@ La pieza de la lámpara se refiere a la bombilla.
 
 Sobre el programa
 
-¿* Qué tipo de funcionamiento tiene el LED? ¿Qué ocurre si se activa o desactiva? ¿Es necesario programarlo con Arduino o basta utilizar hardware para hacerlo funcionar?
+* Qué tipo de funcionamiento tiene el LED? ¿Qué ocurre si se activa o desactiva? ¿Es necesario programarlo con Arduino o basta utilizar hardware para hacerlo funcionar?
 
 El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Arduino, y utilizar el hardware para ponerlo en el ordenador para que funcione.
