@@ -58,7 +58,7 @@ El LED se activa y no se desactiva de forma automáticamente para utilizar, los 
 
 * ¿Cómo es físicamente el sistema de activación del led?
 
-¿Es un interruptor de palanca?
+* ¿Es un interruptor de palanca?
 
 ¿Dónde está esta pieza dentro de toda la lámpara?
 
