@@ -4,25 +4,25 @@
 
 * Empezaremos con un proyecto nuevo de Lamapra nos a mandando el David.
 
-* El proyecto comsistira que hemos de hacer y tratara de hacer una lampara
+ El proyecto comsistira que hemos de hacer y tratara de hacer una lampara
 
 * Crearemos la Lampara que nos guste más y me gustaria mi Lampara que fuera a mi gusto.
 
-* Pantalla y forma de la lámpara donde se colocará el/los LED.
+Pantalla y forma de la lámpara donde se colocará el/los LED.
 
 * Mecanismo de apagado y encendido de la luz LED. (interruptor)
 
 * Pieza para ocultar el arduino que se podrá desconectar para reutilizarlo.
 
-* Programación del arduino
+Programación del arduino
 
 * Sobre el tipo de bombilla
 
-* ¿Cuántos leds va a tener mi lámpara? ¿Van a ser de uno o de varios colores?
+¿Cuántos leds va a tener mi lámpara? ¿Van a ser de uno o de varios colores?
 
 * Mi Lampara va a tener de leds 3, o más y va a ser de varios colores.
 
- * Sobre la pantalla y el soporte
+ Sobre la pantalla y el soporte
 
 * En la lámpara que vas a hacer ¿se ve directamente el led? ¿queda tapado a través de una pantalla semitransparente o un difusor?
 
