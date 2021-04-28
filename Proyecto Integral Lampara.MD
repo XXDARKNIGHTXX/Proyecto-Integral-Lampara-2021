@@ -103,3 +103,5 @@ El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Ar
 ![Lampara de Stitch Azul](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/5e99abefc338a0215973c311e497ebb4.jpg)
 
 * Lampara de Stitch la pelicula de Disney con Lilo&Stitch y me encanta mucho esta Lampara.
+
+* espero que este proyecto me sirva para algo.
