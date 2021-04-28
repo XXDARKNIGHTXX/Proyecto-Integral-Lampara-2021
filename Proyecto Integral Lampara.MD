@@ -104,4 +104,4 @@ El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Ar
 
 * Lampara de Stitch la pelicula de Disney con Lilo&Stitch y me encanta mucho esta Lampara.
 
-* espero que este proyecto me sirva para algo y espero que el ConcunDavid se comporte con nosotros.
+* espero que este proyecto me sirva para algo y espero que pueda aprender mucho con este nuevo proyecto.
