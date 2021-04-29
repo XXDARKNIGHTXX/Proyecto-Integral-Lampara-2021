@@ -105,3 +105,5 @@ El funcionamiento del LED si ocurre se activa es necesitaría, programarlo el Ar
 * Lampara de Stitch la pelicula de Disney con Lilo&Stitch y me encanta mucho esta Lampara.
 
 * espero que este proyecto me sirva para algo y espero que pueda aprender mucho con este nuevo proyecto.
+
+![Caja De VictorYJavi MEJORES AMIGOS15](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/22f0bd389271e516a59ef2a5fc2bf7307b558861/fotoJAVIYVICTOR.svg)
