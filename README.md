@@ -84,6 +84,3 @@ void  encender() {
   
 }
 
-
-
-![Captura de Pantalla de mi ARDUINO hecho por mi](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/main/WhatsApp%20Image%202021-05-03%20at%2012.36.53.jpeg)
