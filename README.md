@@ -6,9 +6,9 @@
 
 * Ahora te pondre el codigo de Arduino k he hecho con Marc:)
 
-![CasePlansVictor](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/269936f4360b578557f9ade212bb5d039e2892b6/caseplansVictor.svg)
+* ![CasePlansVictor](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/269936f4360b578557f9ade212bb5d039e2892b6/caseplansVictor.svg)
 
-![Proyecto de ARDUINO LEDS Y POCIMERTO]
+* ![Proyecto de ARDUINO LEDS Y POCIMERTO]
 
 * ¿Qué quiero con esta lampara?
 
