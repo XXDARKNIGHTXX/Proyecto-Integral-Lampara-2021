@@ -8,23 +8,23 @@
 
 ![CasePlansVictor](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/269936f4360b578557f9ade212bb5d039e2892b6/caseplansVictor.svg)
 
-* ![Proyecto de ARDUINO LEDS Y POCIMERTO]
+![Proyecto de ARDUINO LEDS Y POCIMERTO]
 
-¿Qué quiero con esta lampara?
+* ¿Qué quiero con esta lampara?
 
-Usarla como luz de mesa de noche o de escritorio
+Usar la como luz de mesa de noche o de escritorio
 
-¿Como de grande sera?
+* ¿Como de grande sera?
 
-15cm por 15cm de ancho y alto mas o menos eso se ira viendo a lo largo del proyecto
+ de 15cm por 15cm de ancho y alto mas o menos eso se ira viendo a lo largo del proyecto
 
-¿Que efectos tendra?
+* ¿Que efectos tendra?
 
-Simple iluminación
+ * Simple iluminación
 
-¿Como quiero que actue?
+* ¿Como quiero que actue?
 
-Quiero que se encienda y apague con el botoncito que tendra en un lado de la base al lado de mi escritorio o de mi mesa de noche.
+Quiero que se encienda y apague con el boton que tendra en un lado de la base al lado de las piedritas
 
 ``` C++
 
