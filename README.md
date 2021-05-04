@@ -26,7 +26,7 @@ Usar la como luz de mesa de noche o de escritorio
 
 Quiero que se encienda y apague con el boton que tendra en un lado de la base al lado de las piedritas
 
-[Abujero de la Caja]()
+![Abujero de la Caja](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/ab6b713f54ae19e59800ef9bedb5e0f763dadf49/Abujero.svg)
 
 ``` C++
 
