@@ -26,6 +26,8 @@ Usar la como luz de mesa de noche o de escritorio
 
 Quiero que se encienda y apague con el boton que tendra en un lado de la base al lado de las piedritas
 
+[Abujero de la Caja]()
+
 ``` C++
 
   
