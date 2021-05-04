@@ -28,6 +28,8 @@ Quiero que se encienda y apague con el boton que tendra en un lado de la base al
 
 ![Abujero de la Caja](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/ab6b713f54ae19e59800ef9bedb5e0f763dadf49/Abujero.svg)
 
+![Vidrio Victor Y Foto De Javi](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/dbc21aa7893c9dce91d02dc8f0799030a8e94a4e/VIDRIO%20VICTOR.svg)
+
 Aqui he hecho el abujero de la caja que me pediste.
 
 ``` C++
