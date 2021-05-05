@@ -30,6 +30,8 @@ Quiero que se encienda y apague con el boton que tendra en un lado de la base al
 
 ![Vidrio Victor Y Foto De Javi](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/dbc21aa7893c9dce91d02dc8f0799030a8e94a4e/VIDRIO%20VICTOR.svg)
 
+![Vidrioo Victor Blanco Y Negro](https://raw.githubusercontent.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/31a5d05e8e484498d80fd7212daa0a0539baa431/VIDRIO%20VICTOR%2001.svg)
+
 Aqui he hecho el abujero de la caja que me pediste.
 
 Cuanto mide de alto?
