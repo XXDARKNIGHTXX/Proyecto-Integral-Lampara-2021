@@ -32,6 +32,18 @@ Quiero que se encienda y apague con el boton que tendra en un lado de la base al
 
 Aqui he hecho el abujero de la caja que me pediste.
 
+Cuanto mide de alto?
+
+* mide 130 de alto
+
+Cuanto mide de ancho?
+
+* y mide 40 
+
+
+
+
+
 ``` C++
 
   
