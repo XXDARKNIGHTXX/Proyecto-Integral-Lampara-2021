@@ -1,6 +1,10 @@
+Victor Rodriguez 
+fecha: 6/04/2021
+comentarios: 
+
 # Proyecto-Integral-Lampara-2021
 
-[Documentación de todo mi proyecto](https://github.com/XXDARKNIGHTXX/Proyecto-Integral-Lampara-2021/blob/main/README.md)
+[Documentación de todo mi proyecto]
 
 * Aqui esta mi primera representación del proyecto nuevo de Lampara
 
