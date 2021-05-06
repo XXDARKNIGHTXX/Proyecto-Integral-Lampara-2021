@@ -4,7 +4,6 @@ comentarios:
 
 # Proyecto-Integral-Lampara-2021
 
-[Documentación de todo mi proyecto]
 
 * Aqui esta mi primera representación del proyecto nuevo de Lampara
 
