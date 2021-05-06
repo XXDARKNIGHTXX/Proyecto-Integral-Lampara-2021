@@ -1,6 +1,8 @@
-Victor Rodriguez 
-fecha: 6/04/2021
-comentarios: 
+# Victor Rodriguez 
+
+# fecha: 6/04/2021
+
+# comentarios: Lampara Mejor Amigo15
 
 # Proyecto-Integral-Lampara-2021
 
